@@ -1,0 +1,16 @@
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.csproj.AssemblyReference.cache
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.AssemblyInfoInputs.cache
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.AssemblyInfo.cs
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.csproj.CoreCompileInputs.cache
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\Dz_1_8.exe
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\Dz_1_8.deps.json
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\Dz_1_8.runtimeconfig.json
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\Dz_1_8.runtimeconfig.dev.json
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\Dz_1_8.dll
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\ref\Dz_1_8.dll
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\bin\Debug\net5.0\Dz_1_8.pdb
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.dll
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\ref\Dz_1_8.dll
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.pdb
+C:\Users\polev\OneDrive\Рабочий стол\c#\Dz_1_8\obj\Debug\net5.0\Dz_1_8.genruntimeconfig.cache
